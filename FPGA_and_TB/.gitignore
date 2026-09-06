@@ -5,6 +5,7 @@ __pycache__/
 *.vcd
 *.fst
 *.result.xml
-FPGA_and_TB/impl/
-FPGA_and_TB/sim/
-FPGA_and_TB/vcd/
+impl/
+sim/
+vcd/
+*.hex
