@@ -1,0 +1,12 @@
+set_io flash_MISO_i 26
+set_io flash_MOSI_o 27
+set_io flash_SCK_o 32
+set_io flash_NSS_o 31
+set_io nrst_i 23
+set_io int_i 25
+set_io cpu_en_i 34
+set_io clk_i 35
+set_io port_io[0] 12
+set_io port_io[1] 21
+set_io port_io[2] 13
+set_io port_io[3] 20
